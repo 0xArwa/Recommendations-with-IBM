@@ -22,7 +22,7 @@ This project cover these techniques:
 - Matrix Factorization using SVD
 <a id='2'></a>
 ## Installation 
-You can run this project on your local machine or you can use Google Colab. <br> An HTML file is attached to view the code in a more convenient way.
+You can run this project on your local machine or you can use Google Colab. <br> A HTML file is attached to view the code in a more convenient way.
 
 <a id='3'></a>
 ## Project structure 
