@@ -9,10 +9,10 @@
 <a id='1'></a>
 ## Description
 
-Recommendation systems have become an increasingly important tool in a variety of industries,
+Recommendation engines have become an increasingly important tool in a variety of industries,
 from e-commerce to entertainment. By analyzing user behavior and preferences,
 these systems can provide personalized recommendations that improve user satisfaction and increase engagement. 
-In this notebook, I will be building and exploring diffrent kinds of recommendation systems using an IBM dataset. 
+In this notebook, I will be building and exploring diffrent kinds of recommendation engines using an IBM dataset. 
 The dataset contains user interactions with various articles that are a part of the IBM Watson Studio Community, 
 and I'll be using this data to put the knowledge I learned from Udacity's courses to work.
 
